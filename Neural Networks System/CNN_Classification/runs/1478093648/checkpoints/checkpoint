@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/deep-learning/workspace/CNN_Classification/runs/1478093648/checkpoints/model-800"
+all_model_checkpoint_paths: "/home/deep-learning/workspace/CNN_Classification/runs/1478093648/checkpoints/model-400"
+all_model_checkpoint_paths: "/home/deep-learning/workspace/CNN_Classification/runs/1478093648/checkpoints/model-500"
+all_model_checkpoint_paths: "/home/deep-learning/workspace/CNN_Classification/runs/1478093648/checkpoints/model-600"
+all_model_checkpoint_paths: "/home/deep-learning/workspace/CNN_Classification/runs/1478093648/checkpoints/model-700"
+all_model_checkpoint_paths: "/home/deep-learning/workspace/CNN_Classification/runs/1478093648/checkpoints/model-800"
